@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./birthday-reminder/index.css";
-import App from "./birthday-reminder/App";
+import "./tours/index.css";
+import App from "./tours/App";
 
 ReactDOM.render(
   <React.StrictMode>
