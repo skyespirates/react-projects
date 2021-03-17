@@ -11,3 +11,7 @@
 ## Reviews
 
 ![reviews](./images/reviews.png)
+
+## Accordion
+
+![accordion](./images/accordion.png)
